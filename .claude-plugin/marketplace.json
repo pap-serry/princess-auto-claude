@@ -1,7 +1,9 @@
 {
   "name": "princess-auto-claude",
   "description": "Princess Auto plugins for Claude Code.",
-  "owner": { "name": "Samuel Perry", "email": "samuel.perry@princessauto.com" },
+  "owner": {
+    "name": "Samuel Perry"
+  },
   "plugins": [
     {
       "name": "princess-auto-theme",

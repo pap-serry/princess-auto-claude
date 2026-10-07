@@ -29,7 +29,7 @@ The full graphics are drawn for the **Claude desktop app (Code tab)**. The termi
 Requires a recent Claude Code release; it was built on 2.1.286.
 
 ```bash
-claude plugin marketplace add OWNER/princess-auto-claude
+claude plugin marketplace add pap-serry/princess-auto-claude
 claude plugin install princess-auto-theme@princess-auto-claude
 ```
 
