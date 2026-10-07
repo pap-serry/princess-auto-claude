@@ -1,0 +1,7 @@
+{
+  "name": "princess-auto-theme",
+  "version": "1.0.0",
+  "description": "Princess Auto band for Claude Code: a rolling hex nut, a store worker who reacts to what Claude is doing, and usage gauges.",
+  "author": { "name": "Samuel Perry", "email": "samuel.perry@princessauto.com" },
+  "types": "./types/index.d.ts"
+}
